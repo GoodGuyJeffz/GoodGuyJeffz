@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20YourName&fontSize=56&animation=fadeIn" alt="Header Banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVnNTBiYXJ5YWVjYnd3YjUzYXd0MGx4dnBtYm05cWJvbDhlbGlqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMoJkw6ZCGbEQ0/giphy.gif" alt="Header Banner" />
 </p>
 
 <!-- SUBTITLE / TAGLINE -->
