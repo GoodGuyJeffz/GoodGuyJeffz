@@ -81,21 +81,6 @@
 * 🏁 **[CTF Challenge Walkthrough](./path-to-your-repo)** - A step-by-step breakdown of a recent security challenge detailing the exploitation phase.
 * 🛡️ **[Threat Modeling Framework](./path-to-your-repo)** - Mapping out vulnerabilities using STRIDE methodology for web architectures.
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <!-- Contribution Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 <!--
 **GoodGuyJeffz/GoodGuyJeffz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
