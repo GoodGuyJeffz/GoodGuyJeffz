@@ -81,6 +81,9 @@
 * 🏁 **[CTF Challenge Walkthrough](./path-to-your-repo)** - A step-by-step breakdown of a recent security challenge detailing the exploitation phase.
 * 🛡️ **[Threat Modeling Framework](./path-to-your-repo)** - Mapping out vulnerabilities using STRIDE methodology for web architectures.
 
+<p align="center"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhtMWJxZG1tdGdvemF0NjR3cncxN3l0YnI5eGoxdjZ4YmQ4eGVzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0OHyaSW1eeA5XBxwy8/giphy.gif"/>
+</p>
 <!--
 **GoodGuyJeffz/GoodGuyJeffz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
