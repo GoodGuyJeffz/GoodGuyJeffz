@@ -21,11 +21,3 @@
 </p>
 
 ---
-
-### 💫 About Me
-
-- 🛡️ Currently pursuing a degree in **Computer System Security**.
-- 🎯 Passionate about capturing flags (**CTFs**), documentation, and building secure environments.
-- ⚙️ Love tinkering with PC hardware optimization and system performance.
-- 🐈 Proud owner of a British Shorthair who keeps me company while I code.
-
